@@ -119,8 +119,8 @@ class SiteConfig:
   cta_href: str = "/contact/"
 
   # Pricing base
-  cost_low: int = 600
-  cost_high: int = 3000
+  cost_low: int = 80
+  cost_high: int = 250
 
   # Core titles/subs
   h1_title: str = "TV Antenna Removal/Antenna Removal Service/Aerial Removal Services"
